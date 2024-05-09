@@ -1,0 +1,21 @@
+.ss{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    border: 2px solid black;
+    margin: 0 auto;
+    width: 500px;
+    height: 200px;
+    border-radius: 10px;
+    background-color: azure;
+}
+.p{
+    font-size: 13px;
+    font-family: 'courier New', 'Courier New', Courier, monospace;
+}
+.G{
+    border-radius: 10px 0 0 10px;
+    width: 100%;
+    height: 100%;
+
+   
+}
